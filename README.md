@@ -16,7 +16,7 @@ ADVLOG.BIN 查看器 (基于 MIT 许可证分发的自由软件)
 ### Repo URL:
 https://github.com/AloneCafe/Advlog-Bin-Viewer/
 
-### Last stable release:
+### Lastest stable release:
 
 - v0.0.1 [MSVC/Qt6/Win64]  [Download AdvlogBinViewer.zip](https://github.com/AloneCafe/Advlog-Bin-Viewer/releases/download/0.0.1/AdvlogBinViewer.zip)
 
@@ -43,7 +43,7 @@ If on this basis, you are looking for a general-purpose tool that can open this 
 - 我的硬盘之前有一些问题，这就是我开发这个工具的原因。
 - 可以暂且尝试使用工具，虽然它的表现不怎么稳定，因为可能存在不止一个 bug。
 
-### Main feature:
+### Main features:
 
 打开并查看由 MHDD.EXE 程序生成的 ADVLOG.BIN 扫描日志文件，以便于硬盘维护者分析扫描结果。
 
