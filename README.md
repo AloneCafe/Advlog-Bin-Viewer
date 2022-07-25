@@ -16,8 +16,12 @@ ADVLOG.BIN 查看器 (基于 MIT 许可证分发的自由软件)
 ### Repo URL:
 https://github.com/AloneCafe/Advlog-Bin-Viewer/
 
+### Last stable release:
+
+- v0.0.1 [MSVC/Qt6/Win64]  [Download AdvlogBinViewer.zip](https://github.com/AloneCafe/Advlog-Bin-Viewer/releases/download/0.0.1/AdvlogBinViewer.zip)
+
 ### ADVLOG.BIN 并不神秘
-经典的 DOS 硬盘坏道扫描 & 恢复程序 MHDD.EXE 提供了 MAKELOG 命令，它将线性地扫描硬盘的扇区磁道，并且生成一种特定格式的二进制日志文件来记录每一个磁道的。
+经典的 DOS 硬盘坏道扫描 & 恢复程序 MHDD.EXE 提供了 MAKELOG 命令，它将线性地扫描硬盘的扇区磁道，并且生成一种特定格式的二进制日志文件来记录每个磁道的扫描详情。
 
 如果你不想用 Hex 编辑器来手动地进行分析（这通常十分棘手），也不想重复扫描磁盘（因为你有可能忘记去记录有问题的硬盘磁道），那么不妨试着使用本程序。
 
