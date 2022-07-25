@@ -68,6 +68,8 @@ Open & watch the ADVLOG.BIN file which MHDD.EXE that generated, help the hard di
 
 As an alternative, I personally recommend using the Victoria program to scan and repair hard drive sectors in modern OS.
 
+Victoria (Russian): https://hdd.by/victoria/
+
 ### References: 
 
 [https://real-world-systems.com/docs/MHDD_en_manual.html](https://real-world-systems.com/docs/MHDD_en_manual.html)
