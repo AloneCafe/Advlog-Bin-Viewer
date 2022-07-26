@@ -7,7 +7,7 @@ ADVLOG.BIN 查看器 (基于 MIT 许可证分发的自由软件)
 
 ![9c26b65d4e22cce2829762866ff2db34](https://user-images.githubusercontent.com/20834047/180846731-30410296-26cb-4763-a3a4-06a4c66b6880.png)
 
-### Implemented in C++/Qt
+### Implemented by C++/Qt
 - 在现代操作系统 Windows/Linux/MacOS 下打开并且分析 `ADVLOG.BIN` 日志文件
 
 ### Multi-language i18n supported
